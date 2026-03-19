@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "surajbw1.aternos.me",
-    "port": 62354,
+    "ip": "surajbw1.exaroton.me",
+    "port": 11924,
     "version": "",
     "try-creative": false
   },
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "chalol78"
     },
     "anti-afk": {
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "WELCOME TO MY SERVER!",
         "I like to play Minecraft!"
       ]
     },
@@ -74,8 +74,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
